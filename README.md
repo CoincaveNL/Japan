@@ -1,1 +1,1 @@
-# Japan
+JAPAN is a PoS-based cryptocurrency.
